@@ -1,7 +1,7 @@
 About Kevin
 ###########
 
-.. figure:: singe.jpg
+.. figure:: _images/singe.jpg
    :alt: monkey of Mons
    :width: 150
 
